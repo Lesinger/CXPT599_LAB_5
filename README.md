@@ -45,7 +45,8 @@ repository.
 
 [**Tzu-Hsuan	Tseng**]
 
-[**Yingduo	Yang**]
+[**Yingduo	Yang**](https://github.com/username/) I had a good friend named Chuwei.
+
 	
 [**Kingsley	Chow**]
 
